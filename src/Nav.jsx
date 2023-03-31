@@ -5,8 +5,9 @@ const Nav = () => {
   return (
     <div className="container">
       
-    <div className="navbar navbar-expand-lg navbar-warning bg-warning" style={{justifyContent:"space-between"}}>
-    <span style={{float:"left",fontSize:"40px",fontWeight:"650"}} className="navbar-brand">User Authentication</span>
+    <div className="navbar navbar-expand-lg navbar-dark bg-dark" style={{justifyContent:"space-between"}}>
+    <span style={{float:"left",fontSize:"40px",fontWeight:"650"}} className="navbar-brand">Online Assesment  
+     </span>
     
     
   <div>

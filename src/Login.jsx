@@ -27,7 +27,7 @@ const Login = () => {
       })
       .catch((error) => {
         console.log(error);
-        setErrorMessage('Error occurred while logging in');
+        setErrorMessage('No Such User');
       });
   };
 
